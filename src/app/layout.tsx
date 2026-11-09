@@ -6,8 +6,8 @@ import Script from "next/script";
 
 // --- Metadata Configuration ---
 export const metadata: Metadata = {
-  title: "Home Depot Gift Card",
-  description: "Unlock Home Depot Rewards",
+  title: "Tractor Supply Gift Card",
+  description: "Unlock Tractor Supply Rewards",
 
   icons: {
     icon: "/favicon.png",
