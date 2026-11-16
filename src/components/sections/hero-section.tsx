@@ -39,7 +39,7 @@ const HeroSection = () => {
         <p className="text-xs md:text-sm text-black mb-2 font-medium px-2 relative [text-shadow:none]">
           Here's how to claim your{' '}
           <span className="font-bold !w-[148px] !h-[17px]" style={{ color: '#a02817', textShadow: 'none' }}>
-            $500 Gift Card
+            $750 Gift Card
           </span>
         </p>
       </div>
